@@ -49,3 +49,4 @@ streamlit run dashboard.py
 ## Alerta Prioritário (05/06–12/06/2025)
 
 Greve anunciada por operadores ferroviários da Brado poderá impactar as operações entre Campinas e Santos. Recomenda-se redirecionar até 30% da carga para o modal rodoviário preventivamente.
+dashboard criado por Eliseu Melo
