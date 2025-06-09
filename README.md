@@ -1,5 +1,7 @@
 # Relatório Executivo Interativo sobre Riscos Logísticos (Brasil, 2025)
 
+LINK DASHBOARD: https://dashboard-riscos-logisticos.streamlit.app
+
 Este projeto consiste em um dashboard interativo desenvolvido com Streamlit para análise e previsão de riscos logísticos no Brasil entre 01 de janeiro e 05 de junho de 2025.
 
 ## Conteúdo do Dashboard
