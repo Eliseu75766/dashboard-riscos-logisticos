@@ -21,7 +21,7 @@ st.set_page_config(
 # Função para carregar os dados
 @st.cache_data
 def load_data():
-    df = pd.read_csv('/home/ubuntu/riscos_logisticos_2025.csv')
+    df = pd.read_csv('home/riscos_logisticos_2025.csv')
     df['Data'] = pd.to_datetime(df['Data'])
     return df
 
